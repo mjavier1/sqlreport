@@ -1,0 +1,9 @@
+E:\windows_programancion\c#programing\Datos\bin\Debug\Datos.dll
+E:\windows_programancion\c#programing\Datos\bin\Debug\Datos.pdb
+E:\windows_programancion\c#programing\Datos\bin\Debug\Entidades.dll
+E:\windows_programancion\c#programing\Datos\bin\Debug\Entidades.pdb
+E:\windows_programancion\c#programing\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\windows_programancion\c#programing\Datos\obj\Debug\Datos.dll
+E:\windows_programancion\c#programing\Datos\obj\Debug\Datos.pdb
