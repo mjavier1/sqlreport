@@ -1,0 +1,11 @@
+E:\windows_programancion\c#programing\Negocio\bin\Debug\Negocio.dll
+E:\windows_programancion\c#programing\Negocio\bin\Debug\Negocio.pdb
+E:\windows_programancion\c#programing\Negocio\bin\Debug\Datos.dll
+E:\windows_programancion\c#programing\Negocio\bin\Debug\Datos.pdb
+E:\windows_programancion\c#programing\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\windows_programancion\c#programing\Negocio\obj\Debug\Negocio.dll
+E:\windows_programancion\c#programing\Negocio\obj\Debug\Negocio.pdb
+E:\windows_programancion\c#programing\Negocio\bin\Debug\Entidades.dll
+E:\windows_programancion\c#programing\Negocio\bin\Debug\Entidades.pdb
